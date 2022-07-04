@@ -1,3 +1,4 @@
 {
-    "baseUrl": "https://wanago.io"
+    "baseUrl": "https://wanago.io",
+    "testFiles": "**/*.feature"
 }
